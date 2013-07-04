@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/**
+ * Donna: An interface with "visit" method for all node types, "AssumeNode", "BinaryOperatorNode", etc. 
+ */
 
 package dk.brics.tajs.flowgraph.jsnodes;
 

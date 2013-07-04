@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/**
+ * Donna: an interfaces with a set of common methods for both ReadPropertyNode and WritePropertyNode
+ */
 
 package dk.brics.tajs.flowgraph.jsnodes;
 

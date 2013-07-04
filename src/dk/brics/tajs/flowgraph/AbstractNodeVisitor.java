@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/*
+ * Donna: only an interface with a method "visit"
+ */
 
 package dk.brics.tajs.flowgraph;
 

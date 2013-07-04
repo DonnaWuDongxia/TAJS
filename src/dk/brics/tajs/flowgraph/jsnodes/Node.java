@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+/**
+ * Donna: abstract base class for all ordinary flow graph nodes,
+ * then what's the special ones?
+ * Nearly nothing new, except a argument type change to "NodeVisitor" of "visitBy" method.
+ */
 package dk.brics.tajs.flowgraph.jsnodes;
 
 import dk.brics.tajs.flowgraph.AbstractNode;

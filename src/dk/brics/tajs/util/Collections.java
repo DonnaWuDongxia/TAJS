@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/**
+ * Donna: a set of methods, much about list, set, map.
+ */
 
 package dk.brics.tajs.util;
 

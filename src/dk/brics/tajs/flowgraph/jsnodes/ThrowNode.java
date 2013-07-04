@@ -13,7 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+/**
+ * Donna: node class for "trow" expression, why it must be the last node in its block?
+ * Maybe it is the logical for separate the code into basic blocks?
+ */
 package dk.brics.tajs.flowgraph.jsnodes;
 
 import dk.brics.tajs.flowgraph.SourceLocation;

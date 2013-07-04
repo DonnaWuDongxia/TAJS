@@ -13,6 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/**
+ * Donna: the abstract base class for all Nodes, including many informations,
+ * such as static register number for different node type, if the node is
+ * "dead", "artificial", "registers-done", the information about the location,
+ * index in the flow graph,  "check" method, "visitBy" method.
+ *
+ */
 
 package dk.brics.tajs.flowgraph;
 

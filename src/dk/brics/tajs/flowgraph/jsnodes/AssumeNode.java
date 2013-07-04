@@ -13,6 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+/**
+ * Donna: artificial node for access property node? it assume that the base variable
+ * and the accessed property are not null/undefined.
+ */
 
 package dk.brics.tajs.flowgraph.jsnodes;
 

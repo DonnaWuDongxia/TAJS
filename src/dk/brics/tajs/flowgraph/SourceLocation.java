@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+/**
+ * Donna: basic class of source location, which includes "filename", "line", "column"
+ */
 package dk.brics.tajs.flowgraph;
 
 /**
@@ -70,6 +73,7 @@ public class SourceLocation implements Comparable<SourceLocation> {
 	
 	/**
 	 * Returns a hash code for this object.
+     * Donna: what's this for?
 	 */
 	@Override
 	public int hashCode() {
